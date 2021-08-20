@@ -1,3 +1,3 @@
-# Product Scraper API for Tokopedia.
+# Product Scraper API for Amazon.
 
-A project that I made in my free time, this API receives shop and product name and returns the result in JSON.
+A project that I made in my free time. API with several endpoint to get product detail, product reviews, search product, and more.
